@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrazaou" alt="ibrazaou" /></a> </p>
 
-- 🌱 J'apprends **Symfony / Java / Flutter / Kotlin / React**
+- 🌱 J'apprends **Symfony / Java / Kotlin / React**
 
 - 👨‍💻 Vous retrouverez mes projets ici [https://ibrazaou.com/](https://ibrazaou.com/)
 
