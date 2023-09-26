@@ -7,7 +7,7 @@
 
 - 🌱 J'apprends **Symfony / Java / Kotlin / React**
 
-- 👨‍💻 Vous retrouverez mes projets [ici]([https://ibrazaou.com/](https://thriving-tiramisu-e8bff2.netlify.app))
+- 👨‍💻 Vous retrouverez mes projets ([ici](https://thriving-tiramisu-e8bff2.netlify.app))
 
 - 📫 Pour me contacter c'est ici **ibrahimzaougui1@gmail.com**
 
