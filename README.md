@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrazaou" alt="ibrazaou" /></a> </p>
 
-- 🌱 J'apprends **Symfony / Java / Kotlin / React**
+- 🌱 J'apprends **Symfony / Flutter / Laravel / Vue.js**
 
 - 👨‍💻 Vous retrouverez mes projets ([ici](https://thriving-tiramisu-e8bff2.netlify.app))
 
