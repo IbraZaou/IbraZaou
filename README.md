@@ -11,7 +11,7 @@
 
 - 📫 Pour me contacter c'est ici **ibrahimzaougui1@gmail.com**
 
-- ⚡ Fun fact **Je sais terminer un rubik's cube en moins d'une minute**
+- ⚡ Fun fact **Je sais résoudre un Rubik's Cube en moins d'une minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
