@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Ibra</h1>
-<h3 align="center">Développeur Web Passionné</h3>
+<h3 align="center">Développeur Passionné</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrazaou&label=Profile%20views&color=0e75b6&style=flat" alt="ibrazaou" /> </p>
 
