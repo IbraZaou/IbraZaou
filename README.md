@@ -7,7 +7,7 @@
 
 - 🌱 J'apprends **Symfony / Flutter / Laravel / Vue.js**
 
-- 👨‍💻 Vous retrouverez mes projets ([ici](https://thriving-tiramisu-e8bff2.netlify.app))
+- 👨‍💻 Vous retrouverez mes projets ([ici](https://ibrafrontdev.netlify.app/))
 
 - 📫 Pour me contacter c'est ici **ibrahimzaougui1@gmail.com**
 
