@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrazaou" alt="ibrazaou" /></a> </p>
 
-- 🌱 J'apprends **Symfony / Flutter / Laravel / Vue.js**
+- 🌱 J'apprends **Symfony / React Native / Framer Motion / NextJs**
 
 - 👨‍💻 Vous retrouverez mes projets ([ici](https://ibrafrontdev.netlify.app/))
 
